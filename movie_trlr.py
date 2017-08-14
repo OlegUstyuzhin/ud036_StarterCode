@@ -1,4 +1,4 @@
-# Project "Movie Trailer Website"
+# Project "Movie Trailer Website" ***
 # the pupose os this project is to present a list of favorite movie trailers 
 # This is a server-side code that imports required modules and contains
 # execution code  
