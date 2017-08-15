@@ -42,8 +42,8 @@ class Movie():
         given as the parameter 'trailer_youtube_url'
     
     """
-	# this function will invoke the default web browser and pass 
-	# the YouTube URL link as a parameter
+    # this function will invoke the default web browser and pass 
+    # the YouTube URL link as a parameter
     
-	def show_trailer(self):   
+    def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
